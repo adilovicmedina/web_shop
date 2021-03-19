@@ -1,0 +1,271 @@
+body{
+    font-family: 'Zilla Slab', serif;
+}
+
+.proizvod{
+    float:left; margin:1em;
+    height:370px; width:200px;
+    padding:.5em; border:2px solid #5e888a;
+}
+.proizvod .slika{
+    width:100%; height:200px; 
+    background-size:cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.proizvod .naziv{
+    height:100px;
+}
+.proizvod .naziv h3{
+    text-align: center;
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.center{
+    margin-top:4vw;
+    /* text-align:center; */
+    margin-left: -.5em;
+}
+
+
+
+.p{
+    padding:.5em;
+    padding-top:2em;
+
+}
+
+.c{
+    text-align:center;
+    background-color:#446668 ;
+    font-size:20px;
+    color:white;
+    padding:.5em;
+}
+a{
+   
+    color: #c2525b;
+    padding:3.5em;
+    
+}
+
+input{
+    height:30px;
+    width:300px;
+    display: block;
+    margin-left:20px;
+    outline: none;
+    border:1px solid rgb(165, 163, 163);
+}
+
+label{
+    margin-left:20px;
+    display:block;
+    margin-top:1.5em;
+}
+
+.c1{
+    margin-left:2%;
+}
+
+.button{
+    background: #5e888a; 
+    color: white;
+    padding: 8px 30px;
+    margin-top:2.5em;
+    margin-left:7em;
+    margin-bottom:2em;
+    border:none;
+    height:50px;
+    width:150px;
+    border-radius:30px; 
+    transition: background 0.5s;
+
+}
+
+.button:hover{
+    background: #63d6a0;
+    color:white;
+    outline: none;
+}
+
+.button1{
+    display:inline-block;
+    background: #5e888a; 
+    color: white;
+    padding: 8px 30px;
+    padding-left:50px;
+        margin-top:2.5em;
+    margin-bottom:2em;
+    border-radius:30px; 
+    transition: background 0.5s;
+    height:40px;
+}
+
+.button1:hover{
+    background: #63d6a0;
+    color:white;
+}
+
+fieldset{
+    width: 350px;
+    margin-left:35%;
+    padding:1em;
+}
+
+h1{
+    margin-left:40%;
+}
+
+#h1Form2{
+    margin-left:42%;
+}
+
+select{
+    margin-top:1.5em;
+    width: 135px;
+    margin-left:2.2em;
+    height:30px;
+    border:1px solid  rgb(165, 163, 163);
+}
+
+.contact{
+    border: 1px solid gray;
+    width:50%;
+    text-decoration: underline;
+    margin-left:20%;
+    text-align:center;
+}
+
+.lista{
+    list-style-type:none;
+    display:inline-block;
+    border-bottom:1px solid gray;
+    padding:1em;
+    margin-left:10em;
+    margin-top:5em;
+}
+
+.lista a{
+    color:black;
+    text-decoration: none;
+}
+
+#span{
+    width:100em;
+    border-bottom:1px solid black;
+    padding:1em;
+    padding-left:20em;
+    margin-bottom:3em;
+}
+
+
+
+#span a{
+    color:black;
+    text-decoration: none;
+
+}
+
+.baskCent{
+    margin-left:47%;
+    margin-top:3em;
+    margin-bottom:2em;
+}
+
+.foot{
+    color:black;
+    margin-left:15%;
+    font-size:20px;
+    border-bottom: 1px solid black;
+}
+
+.butt{
+    margin-top:2em;
+    margin-bottom:3em;
+    height:50px;
+}
+
+
+table{
+    margin-left:5vw;
+    border-collapse:collapse;
+}
+
+table td{
+    width:100px;
+    height:30px;
+    border:1px solid gray;
+    text-align:center;
+}
+
+table td form{
+    padding:10px;
+}
+
+
+.left{
+    margin-left:45em;
+    display:inline-block;
+    background: #5e888a; 
+    color: white;
+    padding: 8px 30px;
+    text-align: center;
+    margin-top:2.5em;
+    margin-bottom:2em;
+    border-radius:30px; 
+    transition: background 0.5s;
+    height:50px;
+    width:200px;
+}
+
+.left:hover{
+    background: #63d6a0;
+    color:white;
+}
+
+.proizvod{
+    float:left; margin:1em;
+    height:370px; width:200px;
+    padding:.5em; border:2px solid #5e888a;
+}
+.h{
+    height:600px;
+    width:400px;
+    margin-left:30%;
+}
+.button1{
+    display:inline-block;
+    background: #5e888a; 
+    color: white;
+    padding: 8px 30px;
+    margin-top:2.5em;
+    margin-left:-5em;
+    margin-bottom:2em;
+    border-radius:30px; 
+    transition: background 0.5s;
+}
+
+.button1:hover{
+    background: #63d6a0;
+    color:white;
+}
+
+.form{
+    margin-left: 7em;
+}
+
+.h1{
+    width:bold;
+    margin-right:6%;
+}
+
+img{
+    margin-left:38%;
+}
+
+#a{
+    color: white;
+}
